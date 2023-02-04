@@ -1,0 +1,95 @@
+body {
+    margin-right: 50px;
+    margin-left: 50px;
+    background-color: ghostwhite;
+  }
+  p {
+    text-align: center;
+    margin-left: 25px;
+    margin-right: 25px;
+    margin-top:34px;
+    font-size: 19px;
+    padding-left: 25px;
+    padding-right: 25px;
+    font-size:23px;
+  }
+  img {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 25px;
+    width: 500px;
+    display: block;
+  }
+  li {
+    display: inline;
+    padding-left: 45px;
+    padding-right: 45px;
+    padding-top: 2px;
+    border-style: solid;
+    top: 10px;
+    z-index:1;
+    background-color:#71797E;
+  }
+  .many {
+    margin-left: auto;
+    margin-right: auto;
+    width: 700px;
+    height: 520px;
+  }
+  .blocks {
+    width: 400px;
+    height: 200px;
+  }
+  .morgus {
+    width: 400px;
+    height: 250px;
+  }
+  .title {
+    font-family: Verdana, sans-serif;
+    font-size: 50px;
+  }
+  .man {
+    height: 530px;
+    width: 580px;
+  }
+  .text {
+    margin-top: 30px;
+  }
+  .grey{
+    margin-left:150px;
+    margin-right:150px;
+  }
+  .bronze{
+    background-color:#a97142;
+    border-color:#804A00;
+  }
+  .silver{
+    background-color:#C0C0C0;
+    border-color:#71706e;
+  }
+  
+  .gold{
+    background-color:#d4af37;
+    border-color:#aa6c39;
+  }
+  .last{
+    background-color:#D3D3D3;
+  }
+  .fourth{
+    background-color:#454545;
+  }
+  .third{
+    background-color:#228B22;
+  }
+  .second{
+    background-color:#FF0000;
+  }
+  .first{
+    background-color:#1BB04C;
+  }
+  .nintendo{
+    text-align:center;
+    display:block;
+    margin-left:525px;
+    margin-right:525px;
+  }
